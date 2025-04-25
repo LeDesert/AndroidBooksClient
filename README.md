@@ -32,11 +32,11 @@
 Le projet Android Books Client consiste à développer une application mobile permettant d’interagir avec une API de gestion de livres (développée en TypeScript avec Express et Prisma). L’objectif principal est de proposer une interface utilisateur intuitive qui facilite la consultation, la création et la suppression de livres et d’auteurs.
 
 <p align="center">
-  <img src="images/image1.png" alt="Image 1" style="width: 300px; margin: 10px;">
-  <img src="images/image2.png" alt="Image 2" style="width: 300px; margin: 10px;">
-  <img src="images/image3.png" alt="Image 3" style="width: 300px; margin: 10px;">
-  <img src="images/image4.png" alt="Image 4" style="width: 300px; margin: 10px;">
-  <img src="images/image5.png" alt="Image 5" style="width: 300px; margin: 10px;">
+  <img src="images/image1.png" alt="Image 1" style="width: 150px; margin: 5px;">
+  <img src="images/image2.png" alt="Image 2" style="width: 150px; margin: 5px;">
+  <img src="images/image3.png" alt="Image 3" style="width: 150px; margin: 5px;">
+  <img src="images/image4.png" alt="Image 4" style="width: 150px; margin: 5px;">
+  <img src="images/image5.png" alt="Image 5" style="width: 150px; margin: 5px;">
 </p>
 
 L’application doit notamment :
